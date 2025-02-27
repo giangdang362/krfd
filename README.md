@@ -1,4 +1,4 @@
-# KR FANDOM ADMIN
+# KR FD ADMIN
 
 ## Getting started
 
