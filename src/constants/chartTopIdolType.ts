@@ -1,0 +1,4 @@
+export const CHART_TOP_IDOL_TYPE = {
+  DAILY_CHART_TYPE: 1,
+  MONTHLY_CHART_TYPE: 2,
+};

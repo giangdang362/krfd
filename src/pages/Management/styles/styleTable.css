@@ -1,0 +1,21 @@
+.ant-progress-line {
+  margin-bottom: 0px !important;
+}
+.ant-table-cell {
+  padding: 8px 16px !important;
+}
+.ant-table-footer {
+  padding: 8px 16px !important;
+}
+.ant-progress-bg  {
+  background-color: #EF488E !important;
+}
+.ant-pagination-options {
+  display: none !important;
+}
+.ant-progress-text {
+  margin-inline-start: unset !important;
+}
+.ant-progress-inner {
+  width: 90% !important;
+}
